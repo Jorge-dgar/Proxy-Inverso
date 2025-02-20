@@ -115,55 +115,59 @@ services:
 
 ## Comprobaciones Realizadas
 
-- **Creación de carpetas web y proxy** ![Creación de carpetas](imagenes/creamos-las-carpetas.png)
+- **Creación de carpetas web y proxy**
+  
 ![1- creamos las carpetas web y proxy en docker](https://github.com/user-attachments/assets/254b7661-f742-45e4-8f57-d61ea31fcfb7)
 
 
-- **Configuración de Proxy** ![Default.conf Proxy](imagenes/default-conf-proxy.png)
+- **Configuración de Proxy**
+  
 ![default conf de proxy](https://github.com/user-attachments/assets/b12c3a44-c212-4990-a507-cf02f380722d)
 
 
-- **Dockerfile del Proxy** ![Dockerfile Proxy](imagenes/dockerfile-proxy.png)
+- **Dockerfile del Proxy**
+  
 ![dockerfile de proxy](https://github.com/user-attachments/assets/8ac86449-ed03-44af-9811-0523d517dcb8)
 
 
-- **Configuración del Servidor Web** ![Default.conf Web](imagenes/default-conf-web.png)
+- **Configuración del Servidor Web**
 
 ![default conf de web](https://github.com/user-attachments/assets/94f316ae-3ddb-4c27-9758-5c7fb6955f5d)
 
-- **Dockerfile del Servidor Web** ![Dockerfile Web](imagenes/dockerfile-web.png)
+- **Dockerfile del Servidor Web**
 
 ![dockerfile de web](https://github.com/user-attachments/assets/54d675aa-6546-4eb0-9b6c-6df21c0fcfa0)
 
-- **Index.html del Servidor Web** ![Index.html](imagenes/index-html-web.png)
+- **Index.html del Servidor Web**
 
 ![index html de web](https://github.com/user-attachments/assets/094766f3-4cfb-4b61-b8b1-556ed8f8a379)
 
-- **Docker-Compose** ![Docker Compose](imagenes/docker-compose-yml.png)
+- **Docker-Compose**
 
 ![docker-compose yml a](https://github.com/user-attachments/assets/813c4e39-51cd-44ac-bb81-69075a7cd6c9)
 
-- **Arranque de contenedores** ![Arranque](imagenes/arrancamos-los-contenedores.png)
+- **Arranque de contenedores**
 
 ![arrancamos los contenedores de docker](https://github.com/user-attachments/assets/f5748d56-86e1-439c-b3f6-dc601eb1e189)
 
-- **Cabecera funcionando (X-friend: Jorge)** ![Cabecera funcionando](imagenes/cabecera-funcionando.png)
+- **Cabecera funcionando (X-friend: Jorge)**
 
 ![cabecera instalada y funcionando con nombre Jorge](https://github.com/user-attachments/assets/4020fcf7-c424-4a63-ba98-ed16792d5719)
 
-- **Servidor Web activo en Docker** ![Servidor Web activo](imagenes/servidor-web-docker.png)
+- **Servidor Web activo en Docker**
 
 ![servidor web de docker funcionando](https://github.com/user-attachments/assets/44efee28-1f20-4bac-95ac-f8778f591f77)
 
-- **Últimos logs del Proxy** ![Logs Proxy](imagenes/logs-proxy.png)
+- **Últimos logs del Proxy**
 
 ![ultimos 20 logs de proxy](https://github.com/user-attachments/assets/ad2d9a1f-eaeb-4201-b363-685687b5f932)
 
-- **Últimos 20 logs del Servidor Web** ![Logs Web](imagenes/logs-web.png)
+- **Últimos 20 logs del Servidor Web**
 
 ![ultimos 20 logs de web](https://github.com/user-attachments/assets/985c75df-e62e-47ca-8cbc-082c36e1fde4)
 
-- **Funcionamiento correcto del Servidor Web** ![Funcionamiento correcto](imagenes/funcionamiento-correcto.png)
+- **Funcionamiento correcto del Servidor Web**
+  
 ![funcionamiento correcto del servidor web](https://github.com/user-attachments/assets/8da098c9-5782-4d81-a5dd-3bab82e9e90f)
 
 ## Notas
